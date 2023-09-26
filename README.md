@@ -1,7 +1,3 @@
-# triathlon
-<!DOCTYPE html>
-<html>
-<head>
-  
-</head>  
-</html>
+# Triathlon
+
+
