@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #008dc7;
+}
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #a3231f;
+    background-image: linear-gradient(120deg, #cda5a5, #5f3015);
+}
