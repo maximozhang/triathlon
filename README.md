@@ -21,7 +21,7 @@ Run is actually fun unless you are running on sand. Last time I had to run on sa
 
 ### Me
 
-More about [triathlon] (https://en.wikipedia.org/wiki/Triathlon)
+More about [triathlon](https://en.wikipedia.org/wiki/Triathlon)
 
 <img width="530" alt="image" src="https://github.com/maximozhang/triathlon/assets/145702814/e478659f-3225-4ddc-8c24-bd8803a72860">
 
